@@ -62,6 +62,14 @@
 ├── test.py 
 └── craft.ipynb
 ```
+There are some files might need to modify the path to run the code (You may use `ctrl + F` to search "drive" as keyword to modify):
+* `config/syn_train.yaml`
+* `config/ic15_train.yaml`
+* `trainSynth.py`
+* `trainIC15.py`
+* `eval.py`
+* `test.py`
+* `craft.ipynb`
 
 ## Requirements
 Use T4 runtime in Google Colab, because it requires GPU to run the code.
