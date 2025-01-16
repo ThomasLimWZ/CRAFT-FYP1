@@ -1,3 +1,4 @@
+# Degree FYP1
 # CRAFT: Character-Region Awareness For Text detection
 ## Files
 ```bash
